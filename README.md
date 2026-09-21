@@ -16,8 +16,8 @@ This project updates UFOR 271B: Environmental Science (From the Bluff to the Bay
 Dr. Tanganika Johnson (Dr. TK) is an Assistant Professor of Practice and Department Chair at Southern University in Baton Rouge, Louisiana. She holds a Ph.D. in environmental microbiology and toxicology. Her academic and pedagogical focus centers on integrating artificial intelligence, High-Performance Computing (HPC), Course-based Undergraduate Research Experiences (CUREs), and agriculture-focused STEAM frameworks into higher education science curricula to build equitable, workforce-ready research skills for students.
 
 ### Faculty Headshot
-*[Upload your headshot to the repository's `/images` folder and link it here.]*  
-`![Faculty Headshot](./images/headshot.png)`
+`<img width="936" height="936" alt="Headshot" src="https://github.com/user-attachments/assets/01a9da2f-1450-4a90-ae56-b3628ad42ce0" />
+
 
 ---
 
